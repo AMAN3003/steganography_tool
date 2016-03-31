@@ -389,4 +389,8 @@ public abstract class Class_Abstract {
          return new BufferedImage(cm, raster, isAlphaPremultiplied, null);
         }
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> eaabc0e7f4c06c6eed020ee9a784b1780673297b
