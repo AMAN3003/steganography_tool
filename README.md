@@ -46,5 +46,7 @@ to launch the software.
 
 
 ### Contributors ###
-#### Prince Raheja (Github - [princeraheja143](https://github.com/princeraheja143)        Bitbucket - [prince_raheja](https://bitbucket.org/prince_raheja/))
 ####Aman Omkar (Github - [AMAN3003](https://github.com/AMAN3003)  Bitbucket -[A-M-A-N](https://bitbucket.org/A-M-A-N/) )####
+
+#### Prince Raheja (Github - [princeraheja143](https://github.com/princeraheja143)        Bitbucket - [prince_raheja](https://bitbucket.org/prince_raheja/))
+
